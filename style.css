@@ -1,15 +1,22 @@
 body{
     color: white;
-}
+    margin: auto;
 *, html, body {
     font-family: 'Montserrat', sans-serif;
     
 }
+.section{
+    margin-left: 50px;
+    margin-bottom 50px;
+}
+.kanan {
+    margin-left: 20px;
+}
+
 section.bg-agil{
     background-color:#ffffff;
-  
-
 }
+
 .section{
     text-align: center;
     align-items: center;
@@ -21,6 +28,7 @@ section.bg-agil{
     height: 80px;
     text-align: left;
     z-index: 1000000;
+    margin: auto;
 }
 
 .navigation {
@@ -58,6 +66,7 @@ section.bg-agil{
 * {
     color: #000000;
 
+}
 }
 
 
