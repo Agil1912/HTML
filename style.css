@@ -3,12 +3,12 @@
     
 }
 section.bg-agil{
-    background-color: #264653
+    background-color:#F5F7F8
 }
 
 .fContainer {
     background-color: #e9c46a;
-    border-radius: 15px;
+    border-radius: 10px;
     text-align: left;
     z-index: 1000000;
 }
@@ -25,7 +25,7 @@ section.bg-agil{
 }
 
 .navigation li a:hover {
-    background-color: #f4a261a ;
+    background-color: rgb(252, 239, 0) ;
     border-radius: 13px;
 }
 
@@ -39,7 +39,7 @@ section.bg-agil{
     
 }
 * {
-    color: #F5F7F8;
+    color: #000000;
 
 }
 
